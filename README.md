@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojangole Jordan</h1>
-<h3 align="center">A passionate mobile, web , and everything else developer from Uganda</h3>
+<h3 align="center">Hey, I'm OJ</h3>
 
 <p align="left"> <a href="https://twitter.com/ojangolejordan" target="blank"><img src="https://img.shields.io/twitter/follow/ojangolejordan?logo=twitter&style=for-the-badge" alt="ojangolejordan" /></a> </p>
 
